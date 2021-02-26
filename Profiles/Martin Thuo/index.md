@@ -1,6 +1,6 @@
 # Profile Page
 
-## Daniel Dennis
+## Marrtin Thuo
 
 My name is Martin Thuo 😎. I am a software developer and student at MKU 😊.
 
