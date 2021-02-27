@@ -1,5 +1,6 @@
 # Git-workshop
+
 Git-workshop MKU
-Hello im oscar,
-a software developer. I prefer javascript and 
-python in my codes(thats the real me)
+
+The folder above was used to practice on collaboration using Git.
+The Profile folder has User folders inside of it containing the profiles of DSC GitHub users.
